@@ -1,0 +1,92 @@
+﻿#include "pch-c.h"
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_m9A809AEF89A3664F4A1DEF5FAF4D166BDE8DE5A9 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mA279BAA423854E0803633E2CB42B99654451241B (void);
+extern void CameraControls_Start_mE9D2A01D4869A57F64D2C9414FEF1E198313127B (void);
+extern void CameraControls_LateUpdate_mFBD1760CBF603D98EADC2688F3988196B0C51385 (void);
+extern void CameraControls__ctor_m6B111BDD9D926E23A9555606B5CF8325E5754495 (void);
+extern void Demo_Awake_m42A1C0F2A8F665CBD5671ECC24062D52AE7B43F3 (void);
+extern void Demo_Reset_m83E4271AF2B71CA348A78B56871F3716DB499DE3 (void);
+extern void Demo_Union_m915F05DE1DB0088DFAE92A0E156209ABB41D62C2 (void);
+extern void Demo_SubtractionLR_mC2FC31663CB3834ED799A1BE87101950EC32504E (void);
+extern void Demo_SubtractionRL_mDB86B29611EAE9FA9A8ACB6F78081FCF4A784D25 (void);
+extern void Demo_Intersection_m40E79FC9B8AF7FC5E665DAC1A91843B1035DFB31 (void);
+extern void Demo_DoBooleanOperation_m9E39734EA9FD570E491DBD705BAB29D884897835 (void);
+extern void Demo_ToggleWireframe_m5B8A0773A19C9EAC5FE706856B89887C0B19A87D (void);
+extern void Demo_ToggleExampleMeshes_mD8B804259068C3A8DD1225F7A8851FFA9D918820 (void);
+extern void Demo_Update_m8FBF7B4984580ED7B9736F94C9ACE2157DCE1F16 (void);
+extern void Demo_GenerateBarycentric_m556D6E316EDE2965572B838CCCF164B873834A84 (void);
+extern void Demo__ctor_m37530DDD9F5EA97A199480DB44680AE99DA041FC (void);
+static Il2CppMethodPointer s_methodPointers[17] = 
+{
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_m9A809AEF89A3664F4A1DEF5FAF4D166BDE8DE5A9,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mA279BAA423854E0803633E2CB42B99654451241B,
+	CameraControls_Start_mE9D2A01D4869A57F64D2C9414FEF1E198313127B,
+	CameraControls_LateUpdate_mFBD1760CBF603D98EADC2688F3988196B0C51385,
+	CameraControls__ctor_m6B111BDD9D926E23A9555606B5CF8325E5754495,
+	Demo_Awake_m42A1C0F2A8F665CBD5671ECC24062D52AE7B43F3,
+	Demo_Reset_m83E4271AF2B71CA348A78B56871F3716DB499DE3,
+	Demo_Union_m915F05DE1DB0088DFAE92A0E156209ABB41D62C2,
+	Demo_SubtractionLR_mC2FC31663CB3834ED799A1BE87101950EC32504E,
+	Demo_SubtractionRL_mDB86B29611EAE9FA9A8ACB6F78081FCF4A784D25,
+	Demo_Intersection_m40E79FC9B8AF7FC5E665DAC1A91843B1035DFB31,
+	Demo_DoBooleanOperation_m9E39734EA9FD570E491DBD705BAB29D884897835,
+	Demo_ToggleWireframe_m5B8A0773A19C9EAC5FE706856B89887C0B19A87D,
+	Demo_ToggleExampleMeshes_mD8B804259068C3A8DD1225F7A8851FFA9D918820,
+	Demo_Update_m8FBF7B4984580ED7B9736F94C9ACE2157DCE1F16,
+	Demo_GenerateBarycentric_m556D6E316EDE2965572B838CCCF164B873834A84,
+	Demo__ctor_m37530DDD9F5EA97A199480DB44680AE99DA041FC,
+};
+static const int32_t s_InvokerIndices[17] = 
+{
+	2211,
+	1152,
+	1152,
+	1152,
+	1152,
+	1152,
+	1152,
+	1152,
+	1152,
+	1152,
+	1152,
+	963,
+	1152,
+	1152,
+	1152,
+	972,
+	1152,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_Parabox_CSG_Demo_CodeGenModule;
+const Il2CppCodeGenModule g_Parabox_CSG_Demo_CodeGenModule = 
+{
+	"Parabox.CSG.Demo.dll",
+	17,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};
